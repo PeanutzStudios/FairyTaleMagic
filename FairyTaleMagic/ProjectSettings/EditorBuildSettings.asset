@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Are Logo.unity
+    guid: 75422b92b4040004da80b98e4f646076
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 6de4cd990161e124099f9b0d4b04c276
+  - enabled: 1
+    path: Assets/Scenes/Haircustomize.unity
+    guid: 79bb9f681d94e7d4d86d6e4602886c5d
+  - enabled: 1
+    path: Assets/Scenes/Studio.unity
+    guid: 8c4b58a561cfb6345afadadf8b006775
+  - enabled: 1
+    path: Assets/Scenes/Clothing.unity
+    guid: 84a0f4f44f3d29b4b98d81a26dc304a5
+  - enabled: 1
+    path: Assets/BodyColor.unity
+    guid: ffd91ff87ef462845a508e9deb3de97c
+  - enabled: 1
+    path: Assets/Scenes/GameMenu.unity
+    guid: b12e0c047676a71488699dd1ee29327a
+  - enabled: 1
+    path: Assets/Scenes/DevOmly.unity
+    guid: fdc2fe60a55ab7049b48ff3663ccc31d
+  - enabled: 1
+    path: Assets/Scenes/Trophy.unity
+    guid: 7737cfc5532b04445a5598d4236765c4
+  - enabled: 1
+    path: Assets/Posses.unity
+    guid: 7182c4ebe07195c4a9abea6640ceab17
+  - enabled: 1
+    path: Assets/Body/BodyParts/SkirtsandDresses.unity
+    guid: 7b2a048d1b106e249bb92d90d8849cc5
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,2073 @@
+fileFormatVersion: 2
+guid: 509e2efcdbdcf774887f46dba44563dc
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 0bbd44e6df2dfde48b9a1e7933b6b6c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: Ebene 62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 2756
+      width: 116
+      height: 151
+    spriteID: 9dbff036b9ef8b244a97f8e82e84fef8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 2756}
+    spritePosition: {x: 712, y: 738}
+  - name: Ebene 61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 3085
+      width: 113
+      height: 148
+    spriteID: 7890c85f9d760574dac74d322ad0fd97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 3085}
+    spritePosition: {x: 713, y: 740}
+  - name: Ebene 60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 519
+      height: 938
+    spriteID: 60a3db7bbc93fc04d8380c8565437f6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 373, y: 2}
+  - name: Ebene 59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 950
+      width: 517
+      height: 934
+    spriteID: 5014af58958e7324b97a78fe57b4b99e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 950}
+    spritePosition: {x: 374, y: 5}
+  - name: Ebene 58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 2915
+      width: 106
+      height: 162
+    spriteID: 5e23a4f742b64c14d8633746b5ba835f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 2915}
+    spritePosition: {x: 442, y: 729}
+  - name: Ebene 57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1505
+      y: 3913
+      width: 99
+      height: 156
+    spriteID: bc6cd535217d023489d68b629720ecf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1505, y: 3913}
+    spritePosition: {x: 446, y: 734}
+  - name: Ebene 56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 1001
+      width: 170
+      height: 225
+    spriteID: 24b439c37e3eff84dbf9de7cbbafc522
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 1001}
+    spritePosition: {x: 679, y: 807}
+  - name: Ebene 55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 1467
+      width: 168
+      height: 221
+    spriteID: b178550d1e86d6c4499465e1627e07e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 1467}
+    spritePosition: {x: 680, y: 810}
+  - name: Ebene 54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1352
+      y: 4
+      width: 459
+      height: 303
+    spriteID: 350d5729f4565144085113eed7e313c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1352, y: 4}
+    spritePosition: {x: 394, y: 424}
+  - name: Ebene 53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1352
+      y: 315
+      width: 457
+      height: 298
+    spriteID: 2eb5e8b2f83a4f143a773879b9564a81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1352, y: 315}
+    spritePosition: {x: 395, y: 428}
+  - name: Ebene 52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1352
+      y: 3241
+      width: 253
+      height: 329
+    spriteID: 56e4876d6715d7c4082942e965bc25c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1352, y: 3241}
+    spritePosition: {x: 488, y: 617}
+  - name: Ebene 51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1352
+      y: 3578
+      width: 251
+      height: 327
+    spriteID: 7bbfcb6c8dfa0a745a6b01474e2217c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1352, y: 3578}
+    spritePosition: {x: 489, y: 618}
+  - name: Ebene 50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 1234
+      width: 170
+      height: 225
+    spriteID: 628a104d9b81fa147973928a00a9b208
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 1234}
+    spritePosition: {x: 434, y: 792}
+  - name: Ebene 49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 1696
+      width: 168
+      height: 221
+    spriteID: 6230c7c217cd3cd4bb0ebbb34e3875c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 1696}
+    spritePosition: {x: 435, y: 795}
+  - name: Ebene 48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1352
+      y: 3913
+      width: 145
+      height: 159
+    spriteID: a2f26d366a5be1843b577042620392ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1352, y: 3913}
+    spritePosition: {x: 706, y: 726}
+  - name: Ebene 47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 379
+      y: 3463
+      width: 143
+      height: 156
+    spriteID: ea715c039843bb942a83675b964dda93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 3463}
+    spritePosition: {x: 706, y: 727}
+  - name: Ebene 46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3630
+      width: 441
+      height: 346
+    spriteID: 198ec7dfdf4c082418b1be96f6867f0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3630}
+    spritePosition: {x: 403, y: 368}
+  - name: Ebene 45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 904
+      y: 4
+      width: 440
+      height: 343
+    spriteID: 3d1cea4a84e9d25459b55fb34e765a50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 904, y: 4}
+    spritePosition: {x: 404, y: 369}
+  - name: Ebene 44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1352
+      y: 621
+      width: 254
+      height: 445
+    spriteID: ad881ebdcf0ddbd4baed2087c0131dcf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1352, y: 621}
+    spritePosition: {x: 490, y: 618}
+  - name: Ebene 43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1352
+      y: 1074
+      width: 253
+      height: 443
+    spriteID: ea074ba17ae41a840b6b4de4c271e3f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1352, y: 1074}
+    spritePosition: {x: 491, y: 619}
+  - name: Ebene 42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 2425
+      width: 145
+      height: 159
+    spriteID: 73af9952960c17f47b6fc74135bb5507
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 2425}
+    spritePosition: {x: 420, y: 744}
+  - name: Ebene 41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 2592
+      width: 143
+      height: 156
+    spriteID: 50f2643d02ec93e40a8405e463c94bfb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 2592}
+    spritePosition: {x: 422, y: 745}
+  - name: Ebene 38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1879
+      y: 937
+      width: 148
+      height: 245
+    spriteID: 23be1dc92b2a165479624a52c15c9a71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1879, y: 937}
+    spritePosition: {x: 696, y: 782}
+  - name: Ebene 37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 1925
+      width: 147
+      height: 242
+    spriteID: 8a0646cb82a1a3640be3607835fe986e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 1925}
+    spritePosition: {x: 696, y: 784}
+  - name: Ebene 36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1352
+      y: 1525
+      width: 246
+      height: 420
+    spriteID: 6fec53c53f6a4ac47bea529929c27df5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1352, y: 1525}
+    spritePosition: {x: 499, y: 611}
+  - name: Ebene 35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1352
+      y: 2385
+      width: 244
+      height: 417
+    spriteID: 64d0f3efb593aae41ae4b24a6eca4069
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1352, y: 2385}
+    spritePosition: {x: 500, y: 612}
+  - name: Ebene 34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1881
+      y: 621
+      width: 148
+      height: 245
+    spriteID: 3aebabb51cf9f4845bbbd5b8cfe74757
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1881, y: 621}
+    spritePosition: {x: 432, y: 768}
+  - name: Ebene 33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 2175
+      width: 147
+      height: 242
+    spriteID: 079a144961bd09a42aee27175079fabd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 2175}
+    spritePosition: {x: 433, y: 770}
+  - name: Ebene 32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1614
+      y: 2033
+      width: 176
+      height: 380
+    spriteID: 03a641b946078974e928f151171960ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1614, y: 2033}
+    spritePosition: {x: 459, y: 299}
+  - name: Ebene 31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1614
+      y: 2421
+      width: 174
+      height: 377
+    spriteID: 6f74356407c09f94ea24e02adf24d80b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1614, y: 2421}
+    spritePosition: {x: 460, y: 300}
+  - name: Ebene 30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1614
+      y: 1250
+      width: 181
+      height: 385
+    spriteID: e20cbcf4d381bca4aae2d00495812d92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1614, y: 1250}
+    spritePosition: {x: 612, y: 294}
+  - name: Ebene 29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1614
+      y: 1643
+      width: 178
+      height: 382
+    spriteID: a94224300e8a63d48924c9fb97497989
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1614, y: 1643}
+    spritePosition: {x: 614, y: 295}
+  - name: Ebene 28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1817
+      y: 315
+      width: 171
+      height: 238
+    spriteID: 91cdc7fb8678e9b45a189a4afeae1d30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1817, y: 315}
+    spritePosition: {x: 722, y: 588}
+  - name: Ebene 27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 515
+      width: 169
+      height: 235
+    spriteID: 57f7c742e4aba374d9730546cb2a2dd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 515}
+    spritePosition: {x: 723, y: 589}
+  - name: Ebene 26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3119
+      width: 367
+      height: 503
+    spriteID: fc86eb8ec7fb55445825fc6535188526
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3119}
+    spritePosition: {x: 454, y: 199}
+  - name: Ebene 25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 4
+      width: 365
+      height: 503
+    spriteID: e6f703be1ff7bc6428063c499c0dc18f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 4}
+    spritePosition: {x: 454, y: 199}
+  - name: Ebene 24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1614
+      y: 621
+      width: 259
+      height: 308
+    spriteID: ba161c0354ae71448b41467605e724be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1614, y: 621}
+    spritePosition: {x: 487, y: 618}
+  - name: Ebene 23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1614
+      y: 937
+      width: 257
+      height: 305
+    spriteID: a7d3aa7df913bad4bba664c08f75bf3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1614, y: 937}
+    spritePosition: {x: 488, y: 619}
+  - name: Ebene 22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1819
+      y: 4
+      width: 171
+      height: 238
+    spriteID: 697b4f2bb3330cc4daa3ab158744c025
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1819, y: 4}
+    spritePosition: {x: 361, y: 586}
+  - name: Ebene 21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 692
+      y: 758
+      width: 169
+      height: 235
+    spriteID: b33c6323627b17445bdb5055ff063148
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 692, y: 758}
+    spritePosition: {x: 362, y: 587}
+  - name: Ebene 20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1892
+      width: 443
+      height: 607
+    spriteID: a49cf79edaeb8194ea19ef7e1b084a5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1892}
+    spritePosition: {x: 388, y: 419}
+  - name: Ebene 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2507
+      width: 441
+      height: 604
+    spriteID: cd9062c03e22f064ab311bd13c76d306
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2507}
+    spritePosition: {x: 389, y: 420}
+  - name: Ebene 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 1206
+      width: 139
+      height: 337
+    spriteID: 11055807638e75e47afc0dca62493d6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 1206}
+    spritePosition: {x: 634, y: 9}
+  - name: Ebene 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 1551
+      width: 135
+      height: 333
+    spriteID: 5bcdfcd4bf5d8ad4882abdc39cedf0dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 1551}
+    spritePosition: {x: 637, y: 11}
+  - name: Ebene 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1803
+      y: 3663
+      width: 155
+      height: 334
+    spriteID: 77cd9792de58efa4bb476e9168e27d98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1803, y: 3663}
+    spritePosition: {x: 475, y: 14}
+  - name: Ebene 15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 515
+      width: 153
+      height: 332
+    spriteID: 5a273c34557508642ae049c4a31046e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 515}
+    spritePosition: {x: 476, y: 15}
+  - name: Ebene 14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 531
+      y: 855
+      width: 146
+      height: 343
+    spriteID: 742756bcf163cff46bd5b0596eb9f920
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 531, y: 855}
+    spritePosition: {x: 687, y: 692}
+  - name: Ebene 13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 379
+      y: 3119
+      width: 142
+      height: 336
+    spriteID: f06ba4b452b319048acbb5f29b5417ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 3119}
+    spritePosition: {x: 690, y: 697}
+  - name: Ebene 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1352
+      y: 1953
+      width: 240
+      height: 424
+    spriteID: dbb690451ac6a354b9e04a48cf4e0552
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1352, y: 1953}
+    spritePosition: {x: 502, y: 618}
+  - name: Ebene 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1352
+      y: 2810
+      width: 238
+      height: 423
+    spriteID: 79ceb937f888b7542be8c25ce95cefcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1352, y: 2810}
+    spritePosition: {x: 503, y: 618}
+  - name: Ebene 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1803
+      y: 1250
+      width: 188
+      height: 331
+    spriteID: 880d9429d38da1248800bea9b10ac492
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1803, y: 1250}
+    spritePosition: {x: 608, y: 42}
+  - name: Ebene 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1803
+      y: 1589
+      width: 185
+      height: 328
+    spriteID: 63158de7b0b25274c8626231c6fdb21d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1803, y: 1589}
+    spritePosition: {x: 610, y: 44}
+  - name: Ebene 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1614
+      y: 2806
+      width: 163
+      height: 394
+    spriteID: 264b464f0ae47454bafea111b5ed54e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1614, y: 2806}
+    spritePosition: {x: 614, y: 301}
+  - name: Ebene 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1803
+      y: 1925
+      width: 188
+      height: 322
+    spriteID: 98515e323e6fae6448742276b51c384d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1803, y: 1925}
+    spritePosition: {x: 447, y: 46}
+  - name: Ebene 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1614
+      y: 3208
+      width: 159
+      height: 390
+    spriteID: 6e6909c8a64000e49b0f41d3948b5212
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1614, y: 3208}
+    spritePosition: {x: 616, y: 303}
+  - name: Ebene 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1803
+      y: 2255
+      width: 186
+      height: 318
+    spriteID: 7057dabfd688fe34e82e3724be2e3759
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1803, y: 2255}
+    spritePosition: {x: 448, y: 49}
+  - name: Ebene 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1614
+      y: 3606
+      width: 147
+      height: 391
+    spriteID: b415c1f1863a1164f9aa50cf7360846a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1614, y: 3606}
+    spritePosition: {x: 486, y: 298}
+  - name: Ebene 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1803
+      y: 2581
+      width: 146
+      height: 388
+    spriteID: 2dbb98b9b181d124ea6281154fe24e9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1803, y: 2581}
+    spritePosition: {x: 487, y: 299}
+  - name: Ebene 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1803
+      y: 2977
+      width: 163
+      height: 337
+    spriteID: 0e135ac07f409c8468f4a728ecaa328b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1803, y: 2977}
+    spritePosition: {x: 420, y: 678}
+  - name: Ebene 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 1803
+      y: 3322
+      width: 158
+      height: 333
+    spriteID: 7d11dad0df96185468bf952aac390ff3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1803, y: 3322}
+    spritePosition: {x: 422, y: 680}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: Ebene 62
+    spriteName: Ebene 62
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9dbff036b9ef8b244a97f8e82e84fef8
+    layerID: 0
+    mosaicPosition: {x: 692, y: 2756}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 61
+    spriteName: Ebene 61
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7890c85f9d760574dac74d322ad0fd97
+    layerID: -642247090
+    mosaicPosition: {x: 692, y: 3085}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 60
+    spriteName: Ebene 60
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 60a3db7bbc93fc04d8380c8565437f6c
+    layerID: 923836851
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 59
+    spriteName: Ebene 59
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5014af58958e7324b97a78fe57b4b99e
+    layerID: -286016699
+    mosaicPosition: {x: 4, y: 950}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 58
+    spriteName: Ebene 58
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5e23a4f742b64c14d8633746b5ba835f
+    layerID: 1280067242
+    mosaicPosition: {x: 692, y: 2915}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 57
+    spriteName: Ebene 57
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bc6cd535217d023489d68b629720ecf8
+    layerID: 164321995
+    mosaicPosition: {x: 1505, y: 3913}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 56
+    spriteName: Ebene 56
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 24b439c37e3eff84dbf9de7cbbafc522
+    layerID: 1730405936
+    mosaicPosition: {x: 692, y: 1001}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 55
+    spriteName: Ebene 55
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b178550d1e86d6c4499465e1627e07e1
+    layerID: 1327121409
+    mosaicPosition: {x: 692, y: 1467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 54
+    spriteName: Ebene 54
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 350d5729f4565144085113eed7e313c1
+    layerID: -1401761946
+    mosaicPosition: {x: 1352, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 53
+    spriteName: Ebene 53
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2eb5e8b2f83a4f143a773879b9564a81
+    layerID: -1805046473
+    mosaicPosition: {x: 1352, y: 315}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 52
+    spriteName: Ebene 52
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 56e4876d6715d7c4082942e965bc25c2
+    layerID: -238962532
+    mosaicPosition: {x: 1352, y: 3241}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 51
+    spriteName: Ebene 51
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7bbfcb6c8dfa0a745a6b01474e2217c1
+    layerID: -642247059
+    mosaicPosition: {x: 1352, y: 3578}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 50
+    spriteName: Ebene 50
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 628a104d9b81fa147973928a00a9b208
+    layerID: 923836882
+    mosaicPosition: {x: 692, y: 1234}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 49
+    spriteName: Ebene 49
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6230c7c217cd3cd4bb0ebbb34e3875c2
+    layerID: -286016796
+    mosaicPosition: {x: 692, y: 1696}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 48
+    spriteName: Ebene 48
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a2f26d366a5be1843b577042620392ae
+    layerID: 1280067145
+    mosaicPosition: {x: 1352, y: 3913}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 47
+    spriteName: Ebene 47
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ea715c039843bb942a83675b964dda93
+    layerID: 164321898
+    mosaicPosition: {x: 379, y: 3463}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 46
+    spriteName: Ebene 46
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 198ec7dfdf4c082418b1be96f6867f0c
+    layerID: 1730405839
+    mosaicPosition: {x: 4, y: 3630}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 45
+    spriteName: Ebene 45
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3d1cea4a84e9d25459b55fb34e765a50
+    layerID: 1327121312
+    mosaicPosition: {x: 904, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 44
+    spriteName: Ebene 44
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ad881ebdcf0ddbd4baed2087c0131dcf
+    layerID: -1401762043
+    mosaicPosition: {x: 1352, y: 621}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 43
+    spriteName: Ebene 43
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ea074ba17ae41a840b6b4de4c271e3f7
+    layerID: -1805046570
+    mosaicPosition: {x: 1352, y: 1074}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 42
+    spriteName: Ebene 42
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 73af9952960c17f47b6fc74135bb5507
+    layerID: -238962629
+    mosaicPosition: {x: 692, y: 2425}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 41
+    spriteName: Ebene 41
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 50f2643d02ec93e40a8405e463c94bfb
+    layerID: -642247156
+    mosaicPosition: {x: 692, y: 2592}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 38
+    spriteName: Ebene 38
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 23be1dc92b2a165479624a52c15c9a71
+    layerID: 1280067176
+    mosaicPosition: {x: 1879, y: 937}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 37
+    spriteName: Ebene 37
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8a0646cb82a1a3640be3607835fe986e
+    layerID: 164321929
+    mosaicPosition: {x: 692, y: 1925}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 36
+    spriteName: Ebene 36
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6fec53c53f6a4ac47bea529929c27df5
+    layerID: 1730405870
+    mosaicPosition: {x: 1352, y: 1525}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 35
+    spriteName: Ebene 35
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 64d0f3efb593aae41ae4b24a6eca4069
+    layerID: 1327121343
+    mosaicPosition: {x: 1352, y: 2385}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 34
+    spriteName: Ebene 34
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3aebabb51cf9f4845bbbd5b8cfe74757
+    layerID: -1401762012
+    mosaicPosition: {x: 1881, y: 621}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 33
+    spriteName: Ebene 33
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 079a144961bd09a42aee27175079fabd
+    layerID: -1805046539
+    mosaicPosition: {x: 692, y: 2175}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 32
+    spriteName: Ebene 32
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 03a641b946078974e928f151171960ea
+    layerID: -238962598
+    mosaicPosition: {x: 1614, y: 2033}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 31
+    spriteName: Ebene 31
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6f74356407c09f94ea24e02adf24d80b
+    layerID: -642247125
+    mosaicPosition: {x: 1614, y: 2421}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 30
+    spriteName: Ebene 30
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e20cbcf4d381bca4aae2d00495812d92
+    layerID: 923836816
+    mosaicPosition: {x: 1614, y: 1250}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 29
+    spriteName: Ebene 29
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a94224300e8a63d48924c9fb97497989
+    layerID: -286016862
+    mosaicPosition: {x: 1614, y: 1643}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 28
+    spriteName: Ebene 28
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 91cdc7fb8678e9b45a189a4afeae1d30
+    layerID: 1280067079
+    mosaicPosition: {x: 1817, y: 315}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 27
+    spriteName: Ebene 27
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 57f7c742e4aba374d9730546cb2a2dd4
+    layerID: 164321832
+    mosaicPosition: {x: 692, y: 515}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 26
+    spriteName: Ebene 26
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fc86eb8ec7fb55445825fc6535188526
+    layerID: 1730405773
+    mosaicPosition: {x: 4, y: 3119}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 25
+    spriteName: Ebene 25
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e6f703be1ff7bc6428063c499c0dc18f
+    layerID: 1327121246
+    mosaicPosition: {x: 531, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 24
+    spriteName: Ebene 24
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ba161c0354ae71448b41467605e724be
+    layerID: -1401762109
+    mosaicPosition: {x: 1614, y: 621}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 23
+    spriteName: Ebene 23
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a7d3aa7df913bad4bba664c08f75bf3c
+    layerID: -1805046636
+    mosaicPosition: {x: 1614, y: 937}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 22
+    spriteName: Ebene 22
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 697b4f2bb3330cc4daa3ab158744c025
+    layerID: -238962695
+    mosaicPosition: {x: 1819, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 21
+    spriteName: Ebene 21
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b33c6323627b17445bdb5055ff063148
+    layerID: -642247222
+    mosaicPosition: {x: 692, y: 758}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 20
+    spriteName: Ebene 20
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a49cf79edaeb8194ea19ef7e1b084a5c
+    layerID: 923836719
+    mosaicPosition: {x: 4, y: 1892}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 19
+    spriteName: Ebene 19
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cd9062c03e22f064ab311bd13c76d306
+    layerID: -286016831
+    mosaicPosition: {x: 4, y: 2507}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 18
+    spriteName: Ebene 18
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 11055807638e75e47afc0dca62493d6a
+    layerID: 1280067110
+    mosaicPosition: {x: 531, y: 1206}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 17
+    spriteName: Ebene 17
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5bcdfcd4bf5d8ad4882abdc39cedf0dd
+    layerID: 164321863
+    mosaicPosition: {x: 531, y: 1551}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 16
+    spriteName: Ebene 16
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 77cd9792de58efa4bb476e9168e27d98
+    layerID: 1730405804
+    mosaicPosition: {x: 1803, y: 3663}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 15
+    spriteName: Ebene 15
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5a273c34557508642ae049c4a31046e3
+    layerID: 1327121277
+    mosaicPosition: {x: 531, y: 515}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 14
+    spriteName: Ebene 14
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 742756bcf163cff46bd5b0596eb9f920
+    layerID: -1401762078
+    mosaicPosition: {x: 531, y: 855}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 13
+    spriteName: Ebene 13
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f06ba4b452b319048acbb5f29b5417ac
+    layerID: -1805046605
+    mosaicPosition: {x: 379, y: 3119}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 12
+    spriteName: Ebene 12
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dbb690451ac6a354b9e04a48cf4e0552
+    layerID: -238962664
+    mosaicPosition: {x: 1352, y: 1953}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 11
+    spriteName: Ebene 11
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 79ceb937f888b7542be8c25ce95cefcb
+    layerID: -642247191
+    mosaicPosition: {x: 1352, y: 2810}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 10
+    spriteName: Ebene 10
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 880d9429d38da1248800bea9b10ac492
+    layerID: 923836750
+    mosaicPosition: {x: 1803, y: 1250}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 9
+    spriteName: Ebene 9
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 63158de7b0b25274c8626231c6fdb21d
+    layerID: -771056442
+    mosaicPosition: {x: 1803, y: 1589}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 8
+    spriteName: Ebene 8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 264b464f0ae47454bafea111b5ed54e9
+    layerID: -771056443
+    mosaicPosition: {x: 1614, y: 2806}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 6
+    spriteName: Ebene 6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 98515e323e6fae6448742276b51c384d
+    layerID: -771056445
+    mosaicPosition: {x: 1803, y: 1925}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 7
+    spriteName: Ebene 7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6e6909c8a64000e49b0f41d3948b5212
+    layerID: -771056444
+    mosaicPosition: {x: 1614, y: 3208}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 5
+    spriteName: Ebene 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7057dabfd688fe34e82e3724be2e3759
+    layerID: -771056446
+    mosaicPosition: {x: 1803, y: 2255}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 4
+    spriteName: Ebene 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b415c1f1863a1164f9aa50cf7360846a
+    layerID: -771056447
+    mosaicPosition: {x: 1614, y: 3606}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 3
+    spriteName: Ebene 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2dbb98b9b181d124ea6281154fe24e9a
+    layerID: -771056448
+    mosaicPosition: {x: 1803, y: 2581}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 2
+    spriteName: Ebene 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0e135ac07f409c8468f4a728ecaa328b
+    layerID: -771056449
+    mosaicPosition: {x: 1803, y: 2977}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 1
+    spriteName: Ebene 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7d11dad0df96185468bf952aac390ff3
+    layerID: -771056450
+    mosaicPosition: {x: 1803, y: 3322}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
