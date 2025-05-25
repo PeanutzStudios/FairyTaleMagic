@@ -1,1 +1,1 @@
-Alpha and Beta releases will be posted here!
+This game is pasued due to lack of assets developemnt damand and Mental health reasons
